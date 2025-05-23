@@ -26,7 +26,7 @@ This project showcases proficiency in using Microsoft Excel for comprehensive sa
 
 ## Project Assets
 
-* **Presentation (Illustrating Excel Analysis):** [View Presentation](https://docs.google.com/presentation/d/1YGE2PQFOyzEOC-Iq_S6cMzaYrRoaEdCS/edit?usp=sharing) (Requires Google account access)
+* **Presentation (Illustrating Excel Analysis):** [View Presentation](https://docs.google.com/presentation/d/1YhGaWyxsFvzHGkVUn0UWlJbuDSCLbQTH/edit?slide=id.p1#slide=id.p1) (Requires Google account access)
     * *(Ideally, supplement this with the actual Excel workbook if possible, perhaps stored on GitHub or a file-sharing service).*
 
 ## How to Use
