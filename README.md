@@ -1,9 +1,11 @@
-Project 1: Walmart Sales 
-Skills Covered: Python EDA 
-Assets: Google Colab Notebook, Powerpoint Deck
-https://drive.google.com/file/d/1aKN870tAMS4Dnm3FqDcA2Kc-j342D_dP/view
+Project 4: Excel:
+Skills Covered:
+Assets:
+https://docs.google.com/presentation/d/1YGE2PQFOyzEOC-Iq_S6cMzaYrRoaEdCS/edit#slide=id.p1
 
-README: Walmart Sales Analysis
+README: Excel Sales Analysis
+
+# Project 4: Excel Sales Analysis
 
 ## Overview
 
@@ -24,7 +26,7 @@ This project showcases proficiency in using Microsoft Excel for comprehensive sa
 
 ## Project Assets
 
-* **Presentation (Illustrating Excel Analysis):** [View Presentation](https://docs.google.com/presentation/d/1YhGaWyxsFvzHGkVUn0UWlJbuDSCLbQTH/edit?usp=sharing&ouid=112964520686250774812&rtpof=true&sd=true) (Requires Google account access)
+* **Presentation (Illustrating Excel Analysis):** [View Presentation](https://docs.google.com/presentation/d/1YGE2PQFOyzEOC-Iq_S6cMzaYrRoaEdCS/edit?usp=sharing) (Requires Google account access)
     * *(Ideally, supplement this with the actual Excel workbook if possible, perhaps stored on GitHub or a file-sharing service).*
 
 ## How to Use
